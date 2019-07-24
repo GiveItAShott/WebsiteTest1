@@ -1,6 +1,8 @@
 body {
-  background-image: url("background1.jpg");
   margin: 0 auto;
+  background-image: url("background1.jpg");
+  background-position: center;
+  background-size: cover;
   font-family: "Helvetica", "Arial", sans-serif;
 }
 

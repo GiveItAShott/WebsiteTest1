@@ -19,4 +19,5 @@ iframe {
   width: 450px;
   scrolling: no;
   overflow-y: hidden;
+  overflow-x: hidden;
 }

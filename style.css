@@ -13,7 +13,11 @@ p {
 }
 
 iframe {
+  margin: 10;
+  padding: 10;
   height: 180px;
-  width: 469px;
-  
+  /*width: 469px;
+  */
+  width: 100px;
+  scrolling: no;
 }

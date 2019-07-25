@@ -4,14 +4,16 @@ body {
   background-position: center;
   background-size: cover;
   font-family: "Helvetica", "Arial", sans-serif;
+  color: white;
 }
 
 p {
   text-align: center;
-  color: red;
+  color: white;
 }
 
 iframe {
   height: 180px;
   width: 469px;
+  border: none;
 }

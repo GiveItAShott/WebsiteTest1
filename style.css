@@ -11,6 +11,6 @@ p {
   color: red;
 }
 
-iframe:focus {
-  height="500"
+iframe {
+  height: "500";
 }

@@ -12,5 +12,6 @@ p {
 }
 
 iframe {
-  height: auto;
+  height: 180px;
+  width: 469px;
 }
